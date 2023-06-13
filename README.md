@@ -187,11 +187,11 @@ Les he canvia**des**
 
 **EN pot anar davant del objecte a que substitueix!**
 
-Agafa la mantega i talla**’n** <ins>un tros</ins> / talla un tros <ins>**de** mantega</ins>.
+Agafa la mantega i talla<b>'n</b> <ins>un tros</ins> / talla un tros <ins>**de** mantega</ins>.
 
 Poseu el formatge per damunt de la pasta, però no **n**'hi poseu <ins>gaire</ins> / no hi poseu gaire <ins>**de** formatge</ins>.
 
-El julivert, treu-lo de la nevera i posa**’n** <ins>una mica</ins> a l'amanida / posa una mica <ins>**de** julivert</ins> a l'amanida.
+El julivert, treu-lo de la nevera i posa<b>'n</b> <ins>una mica</ins> a l'amanida / posa una mica <ins>**de** julivert</ins> a l'amanida.
 
 La universitat
 
